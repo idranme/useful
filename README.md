@@ -8,6 +8,7 @@
 
 ## Rust
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build desktop applications with a web frontend
+* [image-rs/image](https://github.com/image-rs/image): Encoding and decoding images
 
 ## Deploy
 * https://www.netlify.com/
